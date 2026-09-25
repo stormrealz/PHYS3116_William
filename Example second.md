@@ -17,3 +17,5 @@
 $E=mc^2$
 
 mine :D
+
+Use VSCode and GitHub Desktop together for this whole thing to work :D, also like python and jupyter download 
